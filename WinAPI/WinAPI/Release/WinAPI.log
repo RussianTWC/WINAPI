@@ -1,0 +1,3 @@
+﻿  WinAPI.cpp
+MSVCRT.lib(exe_main.obj) : error LNK2001: неразрешенный внешний символ _main.
+C:\Users\user\Desktop\Дети\санТехники\Языки чего-то тама\WinAPI\Release\WinAPI.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

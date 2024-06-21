@@ -1,0 +1,24 @@
+﻿  WinAPI.c
+C:\Users\gilya\Downloads\WinAPI\WinAPI\WinAPI\WinAPI.c(82,24): warning C4305: +=: усечение из "double" в "float"
+C:\Users\gilya\Downloads\WinAPI\WinAPI\WinAPI\WinAPI.c(83,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\gilya\Downloads\WinAPI\WinAPI\WinAPI\WinAPI.c(84,29): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\gilya\Downloads\WinAPI\WinAPI\WinAPI\WinAPI.c(86,22): warning C4305: +=: усечение из "double" в "float"
+C:\Users\gilya\Downloads\WinAPI\WinAPI\WinAPI\WinAPI.c(87,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\gilya\Downloads\WinAPI\WinAPI\WinAPI\WinAPI.c(88,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\gilya\Downloads\WinAPI\WinAPI\WinAPI\WinAPI.c(90,22): warning C4305: +=: усечение из "double" в "float"
+C:\Users\gilya\Downloads\WinAPI\WinAPI\WinAPI\WinAPI.c(91,27): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\gilya\Downloads\WinAPI\WinAPI\WinAPI\WinAPI.c(92,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\gilya\Downloads\WinAPI\WinAPI\WinAPI\WinAPI.c(121,26): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+C:\Users\gilya\Downloads\WinAPI\WinAPI\WinAPI\WinAPI.c(122,14): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+C:\Users\gilya\Downloads\WinAPI\WinAPI\WinAPI\WinAPI.c(127,24): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+C:\Users\gilya\Downloads\WinAPI\WinAPI\WinAPI\WinAPI.c(128,12): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+C:\Users\gilya\Downloads\WinAPI\WinAPI\WinAPI\WinAPI.c(133,24): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+C:\Users\gilya\Downloads\WinAPI\WinAPI\WinAPI\WinAPI.c(134,12): warning C4244: функция: преобразование "float" в "int", возможна потеря данных
+C:\Users\gilya\Downloads\WinAPI\WinAPI\WinAPI\WinAPI.c(168,44): warning C4047: функция: "UINT" отличается по уровням косвенного обращения от "void *"
+C:\Users\gilya\Downloads\WinAPI\WinAPI\WinAPI\WinAPI.c(168,44): warning C4024: GetMessageW: различные типы для формального и фактического параметров 3
+C:\Users\gilya\Downloads\WinAPI\WinAPI\WinAPI\WinAPI.c(168,50): warning C4047: функция: "UINT" отличается по уровням косвенного обращения от "void *"
+C:\Users\gilya\Downloads\WinAPI\WinAPI\WinAPI\WinAPI.c(168,50): warning C4024: GetMessageW: различные типы для формального и фактического параметров 4
+C:\Users\gilya\Downloads\WinAPI\WinAPI\WinAPI\WinAPI.c(151): warning C4715: SoftWareProcedure: значение возвращается не при всех путях выполнения
+  WinAPI.vcxproj -> C:\Users\gilya\Downloads\WinAPI\WinAPI\x64\Debug\WinAPI.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
